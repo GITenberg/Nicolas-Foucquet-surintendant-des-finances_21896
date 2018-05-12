@@ -1,0 +1,27 @@
+_repo: Nicolas-Foucquet-surintendant-des-finances_21896
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsy, Arthur de
+    birthdate: 1843
+    deathdate: 1900
+    gutenberg_agent_id: '24956'
+    url: http://www.gutenberg.org/2009/agents/24956
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21896'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Fouquet, Nicolas, 1615-1680'
+title: Nicolas Foucquet, surintendant des finances
+url: http://www.gutenberg.org/ebooks/21896
